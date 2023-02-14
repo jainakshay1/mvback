@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'akshaywebm'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EE20186FE0124671BEA3CA6A71CFC64C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3553CA92478A41569137CA3D2E7D0921 }}
           package: '*.jar'
